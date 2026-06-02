@@ -1,0 +1,22 @@
+Sitemap: /sitemap.xml
+
+User-agent: DataForSeoBot
+User-agent: SerpstatBot
+User-agent: BabbarTechBot
+User-agent: SEOkicks
+User-agent: meta-webindexer
+User-agent: ImagesiftBot
+User-agent: MauiBot
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: BLEXBot
+User-agent: RankMathBot
+User-agent: PetalBot
+User-agent: Barkrowler
+User-agent: SemrushBot
+User-agent: DotBot
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: *
+Disallow:
